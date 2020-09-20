@@ -1,3 +1,10 @@
+# The output of the above project is shown in the image below!
+
+![Result image](https://raw.githubusercontent.com/prakrutivaghasiya/FrontEndSamples/master/ui-dribbble/Result-UI-image.png)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
